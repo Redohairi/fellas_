@@ -1,2 +1,2 @@
-import flask
-import pymongo
+from flask import Flask
+
