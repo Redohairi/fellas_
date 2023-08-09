@@ -17,7 +17,7 @@ Siga as etapas abaixo para configurar o ambiente de desenvolvimento:
 
 ### Backend Flask
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/seu-projeto.git`
+1. Clone este repositório: `git clone https://github.com/Redohairi/fellas_`
 2. Navegue até a pasta do backend: `cd backend`
 3. Crie um ambiente virtual: `python -m venv venv`
 4. Ative o ambiente virtual:
